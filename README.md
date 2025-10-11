@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=56CFE1&width=500&lines=Full+Stack+Developer;Blockchain+Engineer;Smart+Contract+Builder;Tech+Enthusiast+from+Vietnam&center=true" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -69,13 +68,82 @@
 ---
 
 ### 🚀 What I Do  
+---
+<h2>🚀 What I Do</h2>
+<!-- Row 1 -->
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
+  <!-- Card 1 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">🎨 Frontend Development</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.</p>
+    <div>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
+      <img src="https://img.shields.io/badge/React_Native-0088CC?style=flat&logo=react"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
+    </div>
+  </div>
+  <!-- Card 2 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">⚙️ Backend Development</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    </div>
+  </div>
 
-- 💻 Develop full-stack web apps (React, Next.js, Node.js, Express)  
-- ⚙️ Build RESTful APIs & backend microservices  
-- 🔗 Design and deploy **Smart Contracts (Solidity / EVM)**  
-- 🌐 Integrate **Web3.js / Ethers.js** into decentralized apps  
-- 🎨 Focus on clean code, UX, and maintainable architecture  
-
+  <!-- Card 3 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">🔌 APIs & Microservices</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Design RESTful APIs, implement authentication, logging, and communication between distributed systems.</p>
+    <div>
+      <img src="https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microservices-2D3748?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </div>
+  </div>
+</div>
+<br>
+<!-- Row 2 -->
+<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
+  <!-- Card 4 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">🧩 Smart Contracts</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hardhat-FCCB00?style=flat&logo=hardhat&logoColor=black"/>
+      <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white"/>
+    </div>
+  </div>
+  <!-- Card 5 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">🌐 Web3 Integration</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Integrate decentralized apps with wallets, fetch on-chain data and connect networks seamlessly.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Ethers.js-6E40C9?style=flat&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat&logo=walletconnect&logoColor=white"/>
+      <img src="https://img.shields.io/badge/The_Graph-9D39FF?style=flat&logo=thegraph&logoColor=white"/>
+    </div>
+  </div>
+  <!-- Card 6 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
+    <h3 style="color:#56CFE1;margin-bottom:8px;">✨ Clean Code & UX</h3>
+    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Focus on maintainable code, intuitive UI, and DX-first development with reusable components.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Clean_Architecture-2B2D42?style=flat&logo=archlinux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Testing-46A2F1?style=flat&logo=jest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Design_System-FF61F6?style=flat&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Accessibility-FFD166?style=flat&logo=w3c&logoColor=black"/>
+    </div>
+  </div>
+</div>
 ---
 
 ### 🧠 Tech Stack  
