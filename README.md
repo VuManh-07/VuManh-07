@@ -68,87 +68,105 @@
 ---
 
 ### 🚀 What I Do
-<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:16px;">
+<table width="100%" cellspacing="16" cellpadding="0" style="border-collapse:separate;">
   <tr>
-    <!-- Card 1 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">🎨 Frontend Development</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs">
-        <img src="https://img.shields.io/badge/React_Native-0088CC?style=flat&logo=react">
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
-      </p>
+    <!-- CARD 1 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">🎨 Frontend Development</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs">
+            <img src="https://img.shields.io/badge/React_Native-0088CC?style=flat&logo=react">
+            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white">
+          </p>
+        </div>
+      </div>
     </td>
-    <!-- Card 2 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">⚙️ Backend Development</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
-        <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-      </p>
+    <!-- CARD 2 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">⚙️ Backend Development</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+            <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+          </p>
+        </div>
+      </div>
     </td>
-    <!-- Card 3 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">🔌 APIs & Microservices</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Design RESTful APIs, implement authentication, logging, and communication between distributed systems.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white">
-        <img src="https://img.shields.io/badge/Microservices-2D3748?style=flat&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-      </p>
+    <!-- CARD 3 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">🔌 APIs & Microservices</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Design RESTful APIs, implement authentication, logging, and communication between distributed systems.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white">
+            <img src="https://img.shields.io/badge/Microservices-2D3748?style=flat&logo=docker&logoColor=white">
+            <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+          </p>
+        </div>
+      </div>
     </td>
   </tr>
   <tr>
-    <!-- Card 4 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">🧩 Smart Contracts</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white">
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
-        <img src="https://img.shields.io/badge/Hardhat-FCCB00?style=flat&logo=hardhat&logoColor=black">
-        <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white">
-      </p>
+    <!-- CARD 4 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1620775997802-cf9c12aee5a8?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">🧩 Smart Contracts</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white">
+            <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white">
+            <img src="https://img.shields.io/badge/Hardhat-FCCB00?style=flat&logo=hardhat&logoColor=black">
+            <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white">
+          </p>
+        </div>
+      </div>
     </td>
-    <!-- Card 5 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">🌐 Web3 Integration</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Integrate decentralized apps with wallets, fetch on-chain data and connect networks seamlessly.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Ethers.js-6E40C9?style=flat&logo=ethereum&logoColor=white">
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat&logo=walletconnect&logoColor=white">
-        <img src="https://img.shields.io/badge/The_Graph-9D39FF?style=flat&logo=thegraph&logoColor=white">
-      </p>
+    <!-- CARD 5 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1620222444659-8c85b0e9b32e?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">🌐 Web3 Integration</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Integrate decentralized apps with wallets, fetch on-chain data and connect networks seamlessly.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/Ethers.js-6E40C9?style=flat&logo=ethereum&logoColor=white">
+            <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white">
+            <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat&logo=walletconnect&logoColor=white">
+            <img src="https://img.shields.io/badge/The_Graph-9D39FF?style=flat&logo=thegraph&logoColor=white">
+          </p>
+        </div>
+      </div>
     </td>
-    <!-- Card 6 -->
-    <td width="33%" valign="top" style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;">
-      <h3 style="color:#58a6ff;margin:0 0 8px;">✨ Clean Code & UX</h3>
-      <p style="color:#c9d1d9;font-size:14px;line-height:1.55;min-height:84px;">
-        Focus on maintainable code, intuitive UI, and DX-first development with reusable components.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Clean_Architecture-2B2D42?style=flat&logo=archlinux&logoColor=white">
-        <img src="https://img.shields.io/badge/Testing-46A2F1?style=flat&logo=jest&logoColor=white">
-        <img src="https://img.shields.io/badge/Design_System-FF61F6?style=flat&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Accessibility-FFD166?style=flat&logo=w3c&logoColor=black">
-      </p>
+    <!-- CARD 6 -->
+    <td width="33%" valign="top" align="center" style="padding:8px;">
+      <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;text-align:left;">
+        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=900&q=60" width="100%" style="border-top-left-radius:12px;border-top-right-radius:12px;">
+        <div style="padding:16px;">
+          <h3 style="color:#58a6ff;margin:0 0 8px;">✨ Clean Code & UX</h3>
+          <p style="color:#c9d1d9;font-size:14px;">Focus on maintainable code, intuitive UI, and DX-first development with reusable components.</p>
+          <p style="margin:0;">
+            <img src="https://img.shields.io/badge/Clean_Architecture-2B2D42?style=flat&logo=archlinux&logoColor=white">
+            <img src="https://img.shields.io/badge/Testing-46A2F1?style=flat&logo=jest&logoColor=white">
+            <img src="https://img.shields.io/badge/Design_System-FF61F6?style=flat&logo=figma&logoColor=white">
+            <img src="https://img.shields.io/badge/Accessibility-FFD166?style=flat&logo=w3c&logoColor=black">
+          </p>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
