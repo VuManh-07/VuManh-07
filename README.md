@@ -55,7 +55,7 @@
       <h3 style="color:#72EFDD;">🎓 Học vấn</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
         Sinh viên <strong>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</strong>, chuyên ngành <strong>Internet of Things</strong>.  
-        Mình tập trung vào các môn như <strong>phát triển phần mềm</strong>, <strong>Lập trình hướng đối tượng</strong>, <strong>cấu trúc dữ liệu</strong>, và <strong>kỹ thuật hệ thống</strong>,  
+        Mình tập trung vào các môn như <strong>phát triển phần mềm</strong>, <strong>lập trình hướng đối tượng</strong>, <strong>cấu trúc dữ liệu</strong>, và <strong>kỹ thuật hệ thống</strong>,  
         hướng tới sự nghiệp trong lĩnh vực công nghệ cao.
       </p>
       <p>
@@ -81,9 +81,9 @@
 ### 🧠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/>
-  <img src="https://skillicons.dev/icons?i=solidity,web3js,ethers" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,golang,mongodb,mysql,postgresql,redis,kafka" /><br/>
+  <img src="https://skillicons.dev/icons?i=solidity,web3js,ethers,bitcoin,evm" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
