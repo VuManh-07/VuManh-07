@@ -13,55 +13,41 @@
 ---
 
 ### 🧩 About Me  
-
-## 💼 Featured Projects
+```html 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="./banner.png" width="100%" alt="Neon Dashboard"/><br>
-      <h3>⚡ Neon Dashboard</h3>
-      <p align="left">
-        A modern admin dashboard with real-time analytics and customizable widgets built with React and D3.js.
+    <!-- Block 1 -->
+    <td align="center" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;border:1px solid #1f2937;box-shadow:0 0 10px rgba(86,207,225,0.25);">
+      <img src="https://img.icons8.com/color/96/full-stack.png" width="80" alt="Fullstack Icon"/><br>
+      <h3 style="color:#56CFE1;">💻 Full Stack Developer</h3>
+      <p align="left" style="color:#c9d1d9;font-size:14px;">
+        Passionate about designing scalable web applications with clean architecture using <strong>React, Next.js, and Node.js</strong>.  
+        Experienced in both frontend & backend development.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase"/>
-      </p>
-      <a href="URL_DEMO_PROJECT_1">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_1">💻 Code</a>
     </td>
 
-   <td align="center" width="33%">
-      <img src="./banner.png" width="100%" alt="VR Portfolio"/><br>
-      <h3>🌐 VR Portfolio</h3>
-      <p align="left">
-        An immersive 3D portfolio built with Three.js, WebXR, and GSAP for an interactive experience.
+    <!-- Block 2 -->
+    <td align="center" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;border:1px solid #1f2937;box-shadow:0 0 10px rgba(83,144,217,0.25);">
+      <img src="https://img.icons8.com/color/96/graduation-cap.png" width="80" alt="Education Icon"/><br>
+      <h3 style="color:#80FFDB;">🎓 PTIT Graduate</h3>
+      <p align="left" style="color:#c9d1d9;font-size:14px;">
+        Graduated from <strong>Posts and Telecommunications Institute of Technology (PTIT)</strong>, majoring in <strong>Information Technology</strong>.  
+        Skilled in software engineering, data structures, and systems design.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js"/>
-        <img src="https://img.shields.io/badge/WebXR-0A66C2?style=flat&logo=webxr"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock"/>
-      </p>
-      <a href="URL_DEMO_PROJECT_2">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_2">💻 Code</a>
     </td>
 
-    <td align="center" width="33%">
-      <img src="./banner.png" width="100%" alt="CodeCollab"/><br>
-      <h3>🧠 CodeCollab</h3>
-      <p align="left">
-        A real-time collaborative code editor with video chat functionality using WebSockets and WebRTC.
+    <!-- Block 3 -->
+    <td align="center" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;border:1px solid #1f2937;box-shadow:0 0 10px rgba(114,239,221,0.25);">
+      <img src="https://img.icons8.com/color/96/blockchain-technology.png" width="80" alt="Blockchain Icon"/><br>
+      <h3 style="color:#72EFDD;">🔗 Blockchain Engineer</h3>
+      <p align="left" style="color:#c9d1d9;font-size:14px;">
+        Exploring the future of decentralization — building <strong>dApps</strong>, writing secure <strong>Smart Contracts</strong> with Solidity,  
+        and integrating Web3 technologies on EVM-compatible networks.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/WebRTC-0088CC?style=flat&logo=webrtc"/>
-      </p>
-      <a href="URL_DEMO_PROJECT_3">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_3">💻 Code</a>
     </td>
   </tr>
 </table>
-
-
+```
 👨‍💻 I'm **Vũ Đức Mạnh**, a **Full Stack Developer** & **Blockchain Engineer** based in 🇻🇳 **Hà Nội, Vietnam**.  
 🎓 Graduated from **Posts and Telecommunications Institute of Technology (PTIT)** — majoring in **Information Technology**.  
 💡 I’m passionate about building **scalable web applications**, **blockchain dApps**, and **smart contract ecosystems** that turn complex problems into elegant, impactful solutions.
