@@ -15,7 +15,6 @@
 ### 🧩 About Me  
 
 ## 💼 Featured Projects
-
 <table>
   <tr>
     <td align="center" width="33%">
