@@ -12,8 +12,8 @@
 
 ---
 
-### 🧩 About Me  
-```html 
+## 👨‍💻 About Me  
+
 <table>
   <tr>
     <!-- Block 1 -->
@@ -47,7 +47,9 @@
     </td>
   </tr>
 </table>
-```
+
+---
+
 👨‍💻 I'm **Vũ Đức Mạnh**, a **Full Stack Developer** & **Blockchain Engineer** based in 🇻🇳 **Hà Nội, Vietnam**.  
 🎓 Graduated from **Posts and Telecommunications Institute of Technology (PTIT)** — majoring in **Information Technology**.  
 💡 I’m passionate about building **scalable web applications**, **blockchain dApps**, and **smart contract ecosystems** that turn complex problems into elegant, impactful solutions.
