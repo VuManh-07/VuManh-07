@@ -33,7 +33,7 @@
     </td>
     <!-- Block 2: Sở thích -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
-      <img src="https://img.icons8.com/color/96/hobby.png" width="80" alt="Hobby Icon"/><br>
+      <img src="https://media.zim.vn/634d21ef58a0490024a7cd8c/viet-ve-so-thich-cua-minh-bang-tieng-anh.jpg" width="80" alt="Hobby Icon"/><br>
       <h3 style="color:#80FFDB;">🎯 Sở thích</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
         Ngoài thời gian học và làm việc, mình thích <strong>code</strong> để khám phá công nghệ mới,  
