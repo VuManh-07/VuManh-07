@@ -65,8 +65,8 @@
     </td>
   </tr>
 </table>
----
 
+---
 ### 🚀 What I Do
 <table align="center" width="100%" style="border-collapse:separate;border-spacing:20px 20px;">
   <tr align="center">
@@ -182,8 +182,8 @@
     </td>
   </tr>
 </table>
----
 
+---
 ### 🧠 Tech Stack  
 
 <p align="center">
