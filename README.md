@@ -68,12 +68,12 @@
 ---
 
 ### 🚀 What I Do  
-<!-- Row 1 -->
+<h2>🚀 What I Do</h2>
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
-  <!-- Card 1 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">🎨 Frontend Development</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.</p>
+  <!-- FRONTEND -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">🎨 Frontend Development</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.</p>
     <div>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
@@ -81,10 +81,10 @@
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
     </div>
   </div>
-  <!-- Card 2 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">⚙️ Backend Development</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.</p>
+  <!-- BACKEND -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">⚙️ Backend Development</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.</p>
     <div>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
@@ -92,11 +92,10 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </div>
   </div>
-
-  <!-- Card 3 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">🔌 APIs & Microservices</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Design RESTful APIs, implement authentication, logging, and communication between distributed systems.</p>
+  <!-- MICROSERVICES -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">🔌 APIs & Microservices</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Design RESTful APIs, implement authentication, logging, and communication between distributed systems.</p>
     <div>
       <img src="https://img.shields.io/badge/REST-FF6F00?style=flat&logo=api&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microservices-2D3748?style=flat&logo=docker&logoColor=white"/>
@@ -104,14 +103,10 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     </div>
   </div>
-</div>
-<br>
-<!-- Row 2 -->
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
-  <!-- Card 4 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">🧩 Smart Contracts</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.</p>
+  <!-- SMART CONTRACTS -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">🧩 Smart Contracts</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.</p>
     <div>
       <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white"/>
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
@@ -119,10 +114,10 @@
       <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white"/>
     </div>
   </div>
-  <!-- Card 5 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">🌐 Web3 Integration</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Integrate decentralized apps with wallets, fetch on-chain data and connect networks seamlessly.</p>
+  <!-- WEB3 -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">🌐 Web3 Integration</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Integrate decentralized apps with wallets, fetch on-chain data and connect networks seamlessly.</p>
     <div>
       <img src="https://img.shields.io/badge/Ethers.js-6E40C9?style=flat&logo=ethereum&logoColor=white"/>
       <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white"/>
@@ -130,10 +125,10 @@
       <img src="https://img.shields.io/badge/The_Graph-9D39FF?style=flat&logo=thegraph&logoColor=white"/>
     </div>
   </div>
-  <!-- Card 6 -->
-  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #1f2937;border-radius:16px;padding:16px;text-align:left;">
-    <h3 style="color:#56CFE1;margin-bottom:8px;">✨ Clean Code & UX</h3>
-    <p style="color:#c9d1d9;font-size:14px;line-height:1.5;">Focus on maintainable code, intuitive UI, and DX-first development with reusable components.</p>
+  <!-- CLEAN CODE -->
+  <div style="flex:1 1 300px;max-width:300px;background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:16px;text-align:left;">
+    <h3 style="color:#58a6ff;">✨ Clean Code & UX</h3>
+    <p style="color:#c9d1d9;font-size:14px;">Focus on maintainable code, intuitive UI, and DX-first development with reusable components.</p>
     <div>
       <img src="https://img.shields.io/badge/Clean_Architecture-2B2D42?style=flat&logo=archlinux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Testing-46A2F1?style=flat&logo=jest&logoColor=white"/>
