@@ -167,7 +167,7 @@
     <!-- CARD 6 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="./clean_code.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="./clean_code.jpg" width="100%" height="160" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">✨ <strong>Clean Code & UX</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
