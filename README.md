@@ -16,7 +16,7 @@
   <tr>
     <!-- Block 1: Thông tin bản thân -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
-      <img src="https://img.icons8.com/color/96/user-male-circle--v1.png" width="80" alt="About Me Icon"/><br>
+      <img src="https://media-exp1.licdn.com/dms/image/D5612AQGdlv-cUrw95Q/article-cover_image-shrink_720_1280/0/1663259259210?e=2147483647&v=beta&t=sKHu5g9AaVzR6dCEHAvfBRro4gPDjeL5anNQ31myPiE" width="80" alt="About Me Icon"/><br>
       <h3 style="color:#56CFE1;">👤 Thông tin bản thân</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
         Xin chào! Mình là <strong>Vũ Đức Mạnh</strong> (Michael) — sinh năm <strong>2001</strong>, đến từ <strong>Hà Nội, Việt Nam</strong>.  
