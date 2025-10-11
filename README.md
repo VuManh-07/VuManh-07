@@ -13,7 +13,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 <table>
   <tr>
     <!-- Block 1 -->
@@ -25,7 +24,6 @@
         Experienced in both frontend & backend development.
       </p>
     </td>
-
     <!-- Block 2 -->
     <td align="center" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;border:1px solid #1f2937;box-shadow:0 0 10px rgba(83,144,217,0.25);">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="80" alt="Education Icon"/><br>
@@ -35,7 +33,6 @@
         Skilled in software engineering, data structures, and systems design.
       </p>
     </td>
-
     <!-- Block 3 -->
     <td align="center" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;border:1px solid #1f2937;box-shadow:0 0 10px rgba(114,239,221,0.25);">
       <img src="https://img.icons8.com/color/96/blockchain-technology.png" width="80" alt="Blockchain Icon"/><br>
@@ -47,7 +44,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 👨‍💻 I'm **Vũ Đức Mạnh**, a **Full Stack Developer** & **Blockchain Engineer** based in 🇻🇳 **Hà Nội, Vietnam**.  
