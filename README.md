@@ -13,7 +13,6 @@
 ---
 
 ## 👨‍💻 About Me
-## 👨‍💻 About Me
 <table>
   <tr>
     <!-- Block 1: Thông tin bản thân -->
@@ -32,7 +31,6 @@
         <img src="https://img.shields.io/badge/Creative-8ECAE6?style=flat"/>
       </p>
     </td>
-
     <!-- Block 2: Sở thích -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
       <img src="https://img.icons8.com/color/96/hobby.png" width="80" alt="Hobby Icon"/><br>
@@ -51,7 +49,6 @@
         <img src="https://img.shields.io/badge/Gym-E63946?style=flat&logo=dumbbell&logoColor=white"/>
       </p>
     </td>
-
     <!-- Block 3: Học vấn -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="80" alt="Education Icon"/><br>
