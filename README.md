@@ -73,7 +73,7 @@
     <!-- CARD 1 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="./fontend.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">🎨 <strong>Frontend Development</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
@@ -91,7 +91,7 @@
     <!-- CARD 2 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="./backend.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">⚙️ <strong>Backend Development</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
@@ -109,7 +109,7 @@
     <!-- CARD 3 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="./api_micro.jpeg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">🔌 <strong>APIs & Microservices</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
@@ -129,7 +129,7 @@
     <!-- CARD 4 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1620775997802-cf9c12aee5a8?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="sc.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">🧩 <strong>Smart Contracts</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
@@ -147,7 +147,7 @@
     <!-- CARD 5 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1620222444659-8c85b0e9b32e?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="web3.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">🌐 <strong>Web3 Integration</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
@@ -165,7 +165,7 @@
     <!-- CARD 6 -->
     <td width="33%" valign="top">
       <div style="background:#fff;border:1px solid #d0d7de;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;">
-        <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
+        <img src="./clean.jpg" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
         <div style="padding:16px;">
           <h3 style="margin:0 0 8px;">✨ <strong>Clean Code & UX</strong></h3>
           <p style="color:#444;font-size:14px;line-height:1.5;">
