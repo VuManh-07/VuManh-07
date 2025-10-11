@@ -13,97 +13,74 @@
 ---
 
 ### 🧩 About Me  
+
 <table width="100%" border="0" cellpadding="20" cellspacing="0" style="table-layout: fixed; border-collapse: separate;">
   <tr>
     <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_DEMO_1" target="_blank" style="text-decoration: none;">
+      <a href="URL_DEMO_PROJECT_1" target="_blank" style="text-decoration: none;">
         <img src="./banner.png" alt="Neon Dashboard" style="width: 100%; height: auto; border-radius: 4px;">
       </a>
       
-      <h3 style="color: #58a6ff; margin-top: 15px; margin-bottom: 5px;">
-        <a href="URL_DEMO_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          Neon Dashboard
+      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
+        <a href="URL_DEMO_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
+          Fullstack Developer
         </a>
       </h3>
       
       <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        A modern admin dashboard with real-time analytics and customizable widgets built with React and D3.js.
-      </p>
-
-      <p style="margin-top: 10px;">
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">React</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">D3.js</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; font-size: 12px;">Firebase</span>
+        Mô tả ngắn gọn về kinh nghiệm Fullstack và các kỹ năng chính (React, Node.js, Next.js).
       </p>
 
       <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_DEMO_1" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Live Demo
+        <a href="URL_DEMO_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
+          <span style="margin-right: 5px;">&#x27a6;</span> Xem Chi tiết
         </a>
-        <a href="URL_CODE_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
+        <a href="URL_CODE_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
           <span style="margin-right: 5px;">&#x1f4bb;</span> Code
         </a>
       </p>
     </td>
 
     <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_DEMO_2" target="_blank" style="text-decoration: none;">
-        <img src="./banner.png" alt="VR Portfolio" style="width: 100%; height: auto; border-radius: 4px;">
+      <a href="URL_THONG_TIN_PTIT" target="_blank" style="text-decoration: none;">
+        <img src="./banner.png" alt="PTIT" style="width: 100%; height: auto; border-radius: 4px;">
       </a>
 
-      <h3 style="color: #58a6ff; margin-top: 15px; margin-bottom: 5px;">
-        <a href="URL_DEMO_2" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          VR Portfolio
+      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
+        <a href="URL_THONG_TIN_PTIT" target="_blank" style="color: #56CFE1; text-decoration: none;">
+          PTIT (Bưu chính Viễn thông)
         </a>
       </h3>
       
       <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        An immersive virtual reality portfolio experience built with Three.js and WebXR.
-      </p>
-
-      <p style="margin-top: 10px;">
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">Three.js</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">WebXR</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; font-size: 12px;">GSAP</span>
+        Thông tin về trường học, chuyên ngành và năm tốt nghiệp/dự kiến tốt nghiệp.
       </p>
       
       <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_DEMO_2" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Live Demo
+        <a href="URL_THONG_TIN_PTIT" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
+          <span style="margin-right: 5px;">&#x27a6;</span> Hồ sơ
         </a>
-        <a href="URL_CODE_2" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          <span style="margin-right: 5px;">&#x1f4bb;</span> Code
-        </a>
-      </p>
+        </p>
     </td>
 
     <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_DEMO_3" target="_blank" style="text-decoration: none;">
-        <img src="./banner.png" alt="CodeCollab" style="width: 100%; height: auto; border-radius: 4px;">
+      <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="text-decoration: none;">
+        <img src="./banner.png" alt="Blockchain Engineer" style="width: 100%; height: auto; border-radius: 4px;">
       </a>
 
-      <h3 style="color: #58a6ff; margin-top: 15px; margin-bottom: 5px;">
-        <a href="URL_DEMO_3" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          CodeCollab
+      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
+        <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="color: #56CFE1; text-decoration: none;">
+          Blockchain/AI Enthusiast
         </a>
       </h3>
       
       <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        A real-time collaborative code editor with video chat functionality using WebSockets and WebRTC.
+        Đề cập đến chuyên môn phụ như Smart Contracts (Solidity), Web3, hoặc Machine Learning.
       </p>
 
-      <p style="margin-top: 10px;">
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">Node.js</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; margin-right: 5px; font-size: 12px;">Socket.io</span>
-        <span style="background-color: #232d3a; color: #58a6ff; padding: 3px 6px; border-radius: 4px; font-size: 12px;">WebRTC</span>
-      </p>
-      
       <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_DEMO_3" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Live Demo
-        </a>
-        <a href="URL_CODE_3" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          <span style="margin-right: 5px;">&#x1f4bb;</span> Code
+        <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
+          <span style="margin-right: 5px;">&#x27a6;</span> Project
         </a>
       </p>
     </td>
