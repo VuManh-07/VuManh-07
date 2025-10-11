@@ -119,10 +119,8 @@
     </div>
   </div>
 </div>
-
 <!-- ROW 2 -->
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;margin-top:20px;">
-  
   <!-- CARD 4 -->
   <div style="width:320px;background:#fff;border:1px solid #d0d7de;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.05);overflow:hidden;text-align:center;">
     <img src="https://images.unsplash.com/photo-1620775997802-cf9c12aee5a8?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;border-top-left-radius:12px;border-top-right-radius:12px;">
