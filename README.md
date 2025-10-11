@@ -68,8 +68,6 @@
 ---
 
 ### 🚀 What I Do  
----
-<h2>🚀 What I Do</h2>
 <!-- Row 1 -->
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;">
   <!-- Card 1 -->
