@@ -13,7 +13,7 @@
 ---
 
 ### 🧩 About Me  
-
+```html
 <table width="100%" border="0" cellpadding="20" cellspacing="0" style="table-layout: fixed; border-collapse: separate;">
   <tr>
     <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
