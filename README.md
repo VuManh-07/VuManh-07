@@ -13,79 +13,55 @@
 ---
 
 ### 🧩 About Me  
-```html
-<table width="100%" border="0" cellpadding="20" cellspacing="0" style="table-layout: fixed; border-collapse: separate;">
+
+## 💼 Featured Projects
+
+<table>
   <tr>
-    <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_DEMO_PROJECT_1" target="_blank" style="text-decoration: none;">
-        <img src="./banner.png" alt="Neon Dashboard" style="width: 100%; height: auto; border-radius: 4px;">
-      </a>
-      
-      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
-        <a href="URL_DEMO_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          Fullstack Developer
-        </a>
-      </h3>
-      
-      <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        Mô tả ngắn gọn về kinh nghiệm Fullstack và các kỹ năng chính (React, Node.js, Next.js).
+    <td align="center" width="33%">
+      <img src="./banner.png" width="100%" alt="Neon Dashboard"/><br>
+      <h3>⚡ Neon Dashboard</h3>
+      <p align="left">
+        A modern admin dashboard with real-time analytics and customizable widgets built with React and D3.js.
       </p>
-
-      <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_DEMO_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Xem Chi tiết
-        </a>
-        <a href="URL_CODE_PROJECT_1" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          <span style="margin-right: 5px;">&#x1f4bb;</span> Code
-        </a>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase"/>
       </p>
+      <a href="URL_DEMO_PROJECT_1">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_1">💻 Code</a>
     </td>
 
-    <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_THONG_TIN_PTIT" target="_blank" style="text-decoration: none;">
-        <img src="./banner.png" alt="PTIT" style="width: 100%; height: auto; border-radius: 4px;">
-      </a>
-
-      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
-        <a href="URL_THONG_TIN_PTIT" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          PTIT (Bưu chính Viễn thông)
-        </a>
-      </h3>
-      
-      <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        Thông tin về trường học, chuyên ngành và năm tốt nghiệp/dự kiến tốt nghiệp.
+   <td align="center" width="33%">
+      <img src="./banner.png" width="100%" alt="VR Portfolio"/><br>
+      <h3>🌐 VR Portfolio</h3>
+      <p align="left">
+        An immersive 3D portfolio built with Three.js, WebXR, and GSAP for an interactive experience.
       </p>
-      
-      <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_THONG_TIN_PTIT" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Hồ sơ
-        </a>
-        </p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js"/>
+        <img src="https://img.shields.io/badge/WebXR-0A66C2?style=flat&logo=webxr"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock"/>
+      </p>
+      <a href="URL_DEMO_PROJECT_2">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_2">💻 Code</a>
     </td>
 
-    <td width="33.33%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; background-color: #0d1117;">
-      <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="text-decoration: none;">
-        <img src="./banner.png" alt="Blockchain Engineer" style="width: 100%; height: auto; border-radius: 4px;">
-      </a>
-
-      <h3 style="color: #56CFE1; margin-top: 15px; margin-bottom: 5px; font-size: 18px;">
-        <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="color: #56CFE1; text-decoration: none;">
-          Blockchain/AI Enthusiast
-        </a>
-      </h3>
-      
-      <p style="color: #c9d1d9; font-size: 14px; margin-bottom: 10px;">
-        Đề cập đến chuyên môn phụ như Smart Contracts (Solidity), Web3, hoặc Machine Learning.
+    <td align="center" width="33%">
+      <img src="./banner.png" width="100%" alt="CodeCollab"/><br>
+      <h3>🧠 CodeCollab</h3>
+      <p align="left">
+        A real-time collaborative code editor with video chat functionality using WebSockets and WebRTC.
       </p>
-
-      <p style="margin-top: 15px; font-size: 14px;">
-        <a href="URL_CHUYEN_MON_KHAC" target="_blank" style="color: #56CFE1; text-decoration: none; margin-right: 15px;">
-          <span style="margin-right: 5px;">&#x27a6;</span> Project
-        </a>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/WebRTC-0088CC?style=flat&logo=webrtc"/>
       </p>
+      <a href="URL_DEMO_PROJECT_3">🔗 Live Demo</a> • <a href="URL_CODE_PROJECT_3">💻 Code</a>
     </td>
   </tr>
 </table>
+
 
 👨‍💻 I'm **Vũ Đức Mạnh**, a **Full Stack Developer** & **Blockchain Engineer** based in 🇻🇳 **Hà Nội, Vietnam**.  
 🎓 Graduated from **Posts and Telecommunications Institute of Technology (PTIT)** — majoring in **Information Technology**.  
