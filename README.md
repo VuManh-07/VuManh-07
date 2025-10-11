@@ -68,91 +68,93 @@
 ---
 
 ### 🚀 What I Do
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:20px;">
-  <tr valign="top" align="center">
-    <!-- CARD 1: Frontend Development -->
-    <td width="33%" style="padding:0;">
-      <div style="background:#0d1117;border:2px solid #1f2937;border-radius:20px;overflow:hidden;max-width:320px;margin:auto;transition:all 0.3s ease;box-shadow:0 8px 32px rgba(0,0,0,0.4),inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;">
-        <div style="padding:24px;text-align:left;">
-          <h3 style="color:#56cfe1;margin:0 0 16px 0;font-size:20px;font-weight:600;">🎨 Frontend Development</h3>
-          <p style="color:#c9d1d9;font-size:15px;line-height:1.6;margin:0 0 20px 0;min-height:60px;">
-            Build modern, responsive UIs using React, Next.js, and React Native with focus on performance & accessibility.
-          </p>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px;">
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">React</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Next.js</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">React Native</span>
-          </div>
-          <div style="display:flex;gap:16px;">
-            <a href="#" style="color:#56cfe1;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Live Demo</span>
-              <span>↗</span>
-            </a>
-            <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Code</span>
-              <span>🐙</span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </td>
-    <!-- CARD 2: Backend Development (Highlighted) -->
-    <td width="33%" style="padding:0;">
-      <div style="background:#0d1117;border:2px solid #56cfe1;border-radius:20px;overflow:hidden;max-width:320px;margin:auto;transition:all 0.3s ease;box-shadow:0 8px 32px rgba(86,207,225,0.3),0 0 0 1px rgba(86,207,225,0.2),inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://images.unsplash.com/photo-1559526324-593bc073d938?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;">
-        <div style="padding:24px;text-align:left;">
-          <h3 style="color:#56cfe1;margin:0 0 16px 0;font-size:20px;font-weight:600;">⚙️ Backend Development</h3>
-          <p style="color:#c9d1d9;font-size:15px;line-height:1.6;margin:0 0 20px 0;min-height:60px;">
-            Build APIs and backend services using Node.js, Express, and Golang with clean architecture and scalability.
-          </p>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px;">
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Node.js</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Express</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Golang</span>
-          </div>
-          <div style="display:flex;gap:16px;">
-            <a href="#" style="color:#56cfe1;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Live Demo</span>
-              <span>↗</span>
-            </a>
-            <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Code</span>
-              <span>🐙</span>
-            </a>
+<div align="center">
+  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;border-spacing:24px;background:#0d1117;padding:20px;border-radius:16px;">
+    <tr valign="top" align="center">
+      <!-- CARD 1: Neon Dashboard -->
+      <td width="33%" style="padding:0;">
+        <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;box-shadow:0 8px 32px rgba(0,0,0,0.4);transition:all 0.3s ease;">
+          <img src="https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;display:block;">
+          <div style="padding:20px;text-align:left;">
+            <h3 style="color:#56CFE1;margin:0 0 12px 0;font-size:18px;font-weight:600;line-height:1.3;">Neon Dashboard</h3>
+            <p style="color:#c9d1d9;font-size:14px;line-height:1.5;margin:0 0 16px 0;min-height:42px;">
+              A modern admin dashboard with real-time analytics.
+            </p>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;">
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">React</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">D3.js</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">Firebase</span>
+            </div>
+            <div style="display:flex;gap:16px;">
+              <a href="#" style="color:#56CFE1;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Live Demo</span>
+                <span>↗</span>
+              </a>
+              <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Code</span>
+                <span>🐙</span>
+              </a>
+            </div>
           </div>
         </div>
-      </div>
-    </td>
-    <!-- CARD 3: Smart Contracts -->
-    <td width="33%" style="padding:0;">
-      <div style="background:#0d1117;border:2px solid #1f2937;border-radius:20px;overflow:hidden;max-width:320px;margin:auto;transition:all 0.3s ease;box-shadow:0 8px 32px rgba(0,0,0,0.4),inset 0 1px 0 rgba(255,255,255,0.1);">
-        <img src="https://images.unsplash.com/photo-1620775997802-cf9c12aee5a8?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;">
-        <div style="padding:24px;text-align:left;">
-          <h3 style="color:#56cfe1;margin:0 0 16px 0;font-size:20px;font-weight:600;">🧩 Smart Contracts</h3>
-          <p style="color:#c9d1d9;font-size:15px;line-height:1.6;margin:0 0 20px 0;min-height:60px;">
-            Design and deploy secure smart contracts optimized for gas and modularity on EVM-compatible networks.
-          </p>
-          <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px;">
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Solidity</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Hardhat</span>
-            <span style="background:linear-gradient(135deg,#1f2937,#374151);color:#56cfe1;padding:6px 12px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid #374151;">Ethereum</span>
-          </div>
-          <div style="display:flex;gap:16px;">
-            <a href="#" style="color:#56cfe1;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Live Demo</span>
-              <span>↗</span>
-            </a>
-            <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:15px;display:flex;align-items:center;gap:6px;font-weight:500;transition:color 0.2s;">
-              <span>Code</span>
-              <span>🐙</span>
-            </a>
+      </td>
+      <!-- CARD 2: VR Portfolio (Highlighted) -->
+      <td width="33%" style="padding:0;">
+        <div style="background:#0d1117;border:1px solid #56CFE1;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;box-shadow:0 8px 32px rgba(86,207,225,0.2),0 0 0 1px rgba(86,207,225,0.1);transition:all 0.3s ease;">
+          <img src="https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;display:block;">
+          <div style="padding:20px;text-align:left;">
+            <h3 style="color:#56CFE1;margin:0 0 12px 0;font-size:18px;font-weight:600;line-height:1.3;">VR Portfolio</h3>
+            <p style="color:#c9d1d9;font-size:14px;line-height:1.5;margin:0 0 16px 0;min-height:42px;">
+              An immersive virtual reality portfolio experience.
+            </p>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;">
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">Three.js</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">WebXR</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">GSAP</span>
+            </div>
+            <div style="display:flex;gap:16px;">
+              <a href="#" style="color:#56CFE1;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Live Demo</span>
+                <span>↗</span>
+              </a>
+              <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Code</span>
+                <span>🐙</span>
+              </a>
+            </div>
           </div>
         </div>
-      </div>
-    </td>
-  </tr>
-</table>
+      </td>
+      <!-- CARD 3: CodeCollab -->
+      <td width="33%" style="padding:0;">
+        <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;overflow:hidden;max-width:320px;margin:auto;box-shadow:0 8px 32px rgba(0,0,0,0.4);transition:all 0.3s ease;">
+          <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80" width="100%" height="180" style="object-fit:cover;display:block;">
+          <div style="padding:20px;text-align:left;">
+            <h3 style="color:#56CFE1;margin:0 0 12px 0;font-size:18px;font-weight:600;line-height:1.3;">CodeCollab</h3>
+            <p style="color:#c9d1d9;font-size:14px;line-height:1.5;margin:0 0 16px 0;min-height:42px;">
+              A real-time collaborative code editor with video chat.
+            </p>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;">
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">Node.js</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">Socket.io</span>
+              <span style="background:#21262d;color:#56CFE1;padding:4px 8px;border-radius:6px;font-size:12px;font-weight:500;border:1px solid #30363d;">WebRTC</span>
+            </div>
+            <div style="display:flex;gap:16px;">
+              <a href="#" style="color:#56CFE1;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Live Demo</span>
+                <span>↗</span>
+              </a>
+              <a href="#" style="color:#c9d1d9;text-decoration:none;font-size:14px;display:flex;align-items:center;gap:4px;font-weight:500;">
+                <span>Code</span>
+                <span>🐙</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 🧠 Tech Stack  
