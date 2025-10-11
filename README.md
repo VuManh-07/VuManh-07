@@ -7,7 +7,7 @@
 <h3 align="center">You can call me <span style="color:#72efdd;">Michael</span> 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=56CFE1&width=500&lines=Full+Stack+Developer;Blockchain+Engineer;Smart+Contract+Builder;Tech+Enthusiast+from+Vietnam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=56CFE1&width=500&lines=Full+Stack+Developer;Blockchain+Engineer;Smart+Contract+Builder;Tech+Enthusiast+from+Vietnam&center=true" alt="Typing SVG" />
 </p>
 
 ---
