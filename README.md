@@ -1,8 +1,4 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://i.imgur.com/8ZpFMyx.png" width="100%" alt="Banner - Vu Duc Manh" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#56cfe1;">Vũ Đức Mạnh</span></h1>
 <h3 align="center">You can call me <span style="color:#72efdd;">Michael</span> 🚀</h3>
 
