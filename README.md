@@ -183,33 +183,28 @@
 </table>
 
 ---
-# 🧠 Tech Stack  
-<table width="100%" cellspacing="0" cellpadding="0">
+# 🧠 Tech Stack
+<table width="100%">
   <tr>
     <td valign="top" width="60%">
-      <!-- Frontend -->
       <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" /><br/>
-      <!-- Backend -->
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript"><br/>
       <h4>⚙️ Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,kafka" /><br/>
-      <!-- Database / SQL -->
+      <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,kafka"><br/>
       <h4>🗄️ Database / SQL</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br/>
-      <!-- Blockchain -->
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql"><br/>
       <h4>⛓️ Blockchain</h4>
-      <img src="https://skillicons.dev/icons?i=solidity,web3,ethers,ethereum,hardhat,metamask" /><br/>
-      <!-- Tools -->
+      <img src="https://skillicons.dev/icons?i=solidity,web3,ethers,ethereum,hardhat,metamask"><br/>
       <h4>🧰 Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode">
     </td>
     <td valign="top" width="40%">
       <h3>📊 Most Used Languages</h3>
-       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuManh-07&layout=compact&langs_count=8&hide_border=true&hide_title=true"
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuManh-07&layout=compact&langs_count=8&hide_border=true&hide_title=true&card_width=420"
         alt="Most Used Languages"
+        style="max-width:100%;height:auto;display:block;"
       />
-    </td>
     </td>
   </tr>
 </table>
