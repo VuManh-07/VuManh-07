@@ -52,9 +52,9 @@
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="80" alt="Education Icon"/><br>
       <h3 style="color:#72EFDD;">🎓 Education</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
-        Currently, I am studying at <strong>the Posts and Telecommunications Institute of Technology (PTIT)</strong>, majoring in <strong>Internet of Things (IoT)</strong>.
-        My coursework focuses on <strong>software development, object-oriented programming, data structures</strong>, and <strong>system engineering</strong>.
-        I aspire to pursue a career in the high-tech industry, contributing to innovative and impactful solutions.
+        I'm a student at the <strong>Posts and Telecommunications Institute of Technology (PTIT)</strong>, majoring in <strong>Electronics and Telecommunications Engineering</strong>.
+        I focus on subjects such as <strong>software development, object-oriented programming, data structures, and system engineering</strong>,
+        with the goal of building a career in high-tech and innovative industries.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PTIT-0047AB?style=flat&logo=google-scholar&logoColor=white"/>
