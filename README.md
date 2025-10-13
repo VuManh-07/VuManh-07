@@ -11,7 +11,7 @@
 </p>
 
 ---
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 <table>
   <tr>
     <!-- Block 1: Thông tin bản thân -->
@@ -68,7 +68,7 @@
 
 
 ---
-### 🚀 What I Do
+# 🚀 What I Do
 <table align="center" width="100%" style="border-collapse:separate;border-spacing:20px 20px;">
   <tr align="center">
     <!-- CARD 1 -->
