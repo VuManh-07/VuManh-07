@@ -208,7 +208,7 @@
     <td valign="top" width="30%">
       <h3>📊 Most Used Languages</h3>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&hide_title=false&theme=light"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&hide_title=false"
         alt="Top Languages (auto-update)"
       />
       <!-- Gợi ý: muốn dạng donut (tròn) thì dùng layout=donut -->
