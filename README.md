@@ -184,6 +184,7 @@
 
 ---
 # 🧠 Tech Stack
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -208,6 +209,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 # 🌱 Currently Exploring  
