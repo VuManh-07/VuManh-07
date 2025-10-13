@@ -17,11 +17,11 @@
     <!-- Block 1: Thông tin bản thân -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
       <img src="https://img.icons8.com/color/96/user-male-circle--v1.png" width="80" alt="About Me Icon"/><br>
-      <h3 style="color:#56CFE1;">👤 Thông tin bản thân</h3>
+      <h3 style="color:#56CFE1;">👤 Personal Information</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
-        Xin chào! Mình là <strong>Vũ Đức Mạnh</strong> (Michael) — sinh năm <strong>2001</strong>, đến từ <strong>Hà Nội, Việt Nam</strong>.  
-        Là người yêu thích công nghệ, sáng tạo, và luôn muốn phát triển bản thân thông qua những thử thách mới.  
-        Hướng đến việc trở thành một kỹ sư giỏi, có ảnh hưởng tích cực đến cộng đồng dev Việt.
+        Hello! I'm <strong>Vũ Đức Mạnh</strong> (Michael) — born in <strong>2001</strong>, from <strong>Hà Nội, Việt Nam</strong>.
+        I'm passionate about technology, creativity, and constantly improving myself through new challenges.
+        My goal is to become a skilled engineer who makes a positive impact on the Vietnamese developer community.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Hà_Nội-FFB703?style=flat&logo=google-maps&logoColor=white"/>
@@ -35,9 +35,8 @@
       <img src="https://img.icons8.com/color/96/like--v3.png" width="80" alt="Hobby Icon"/><br>
       <h3 style="color:#80FFDB;">🎯 Sở thích</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
-        Ngoài thời gian học và làm việc, mình thích <strong>code</strong> để khám phá công nghệ mới,  
-        <strong>du lịch</strong> để mở rộng góc nhìn, và <strong>ăn uống</strong> như một cách tận hưởng cuộc sống.  
-        Mình cũng yêu thể thao như <strong>chạy bộ</strong>, <strong>bơi lội</strong> và <strong>gym</strong> để giữ tinh thần thoải mái.
+        Outside of studying and working, I enjoy <strong>coding</strong> to explore new technologies, <strong>travling</strong> to broaden my perspective, and <strong>food</strong> as a way to enjoy life.
+        I also love sports such as <strong>running, swimming</strong>, and going to the <strong>gym</strong> to keep my mind and body balanced.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Coding-00C4CC?style=flat&logo=visualstudiocode&logoColor=white"/>
@@ -51,11 +50,11 @@
     <!-- Block 3: Học vấn -->
     <td align="center" valign="top" width="33%" style="background:#0d1117;border-radius:16px;padding:16px;vertical-align:top;border:1px solid #1f2937;">
       <img src="https://img.icons8.com/color/96/graduation-cap.png" width="80" alt="Education Icon"/><br>
-      <h3 style="color:#72EFDD;">🎓 Học vấn</h3>
+      <h3 style="color:#72EFDD;">🎓 Education</h3>
       <p align="left" style="color:#c9d1d9;font-size:14px;min-height:100px;">
-        Sinh viên <strong>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</strong>, chuyên ngành <strong>Internet of Things</strong>.  
-        Mình tập trung vào các môn như <strong>phát triển phần mềm</strong>, <strong>lập trình hướng đối tượng</strong>, <strong>cấu trúc dữ liệu</strong>, và <strong>kỹ thuật hệ thống</strong>,  
-        hướng tới sự nghiệp trong lĩnh vực công nghệ cao.
+        Currently, I am studying at <strong>the Posts and Telecommunications Institute of Technology (PTIT)</strong>, majoring in <strong>Internet of Things (IoT)</strong>.
+        My coursework focuses on <strong>software development, object-oriented programming, data structures</strong>, and <strong>system engineering</strong>.
+        I aspire to pursue a career in the high-tech industry, contributing to innovative and impactful solutions.
       </p>
       <p>
         <img src="https://img.shields.io/badge/PTIT-0047AB?style=flat&logo=google-scholar&logoColor=white"/>
