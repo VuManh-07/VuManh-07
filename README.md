@@ -184,43 +184,55 @@
 
 ---
 # 🧠 Tech Stack  
-<p style="margin-left: 25px;">
-  <!-- Frontend -->
-  <h3 style="color:#56CFE1; margin: 6px 0;">🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" />
-  <!-- Backend -->
-  <h3 style="color:#56CFE1; margin: 10px 0 6px;">⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,kafka" />
-  <!-- Database / SQL -->
-  <h3 style="color:#56CFE1; margin: 10px 0 6px;">🗄️ Database / SQL</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  <!-- Blockchain -->
-  <h3 style="color:#56CFE1; margin: 10px 0 6px;">⛓️ Blockchain</h4>
-  <img src="https://skillicons.dev/icons?i=solidity,web3js,ethers,bitcoin,evm" />
-  <!-- Tools -->
-  <h3 style="color:#56CFE1; margin: 10px 0 6px;">🧰 Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
+<table>
+  <tr>
+    <!-- LEFT: 70% (logos) -->
+    <td valign="top" width="70%">
+      <!-- Frontend -->
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" /><br/>
+      <!-- Backend -->
+      <h4>⚙️ Backend</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,kafka" /><br/>
+      <!-- Database / SQL -->
+      <h4>🗄️ Database / SQL</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br/>
+      <!-- Blockchain -->
+      <h4>⛓️ Blockchain</h4>
+      <img src="https://skillicons.dev/icons?i=solidity,web3,ethers,ethereum,hardhat,metamask" /><br/>
+      <!-- Tools -->
+      <h4>🧰 Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+    </td>
+    <!-- RIGHT: 30% (auto-update card) -->
+    <td valign="top" width="30%">
+      <h3>📊 Most Used Languages</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&hide_title=false&theme=light"
+        alt="Top Languages (auto-update)"
+      />
+      <!-- Gợi ý: muốn dạng donut (tròn) thì dùng layout=donut -->
+      <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&langs_count=8&hide_border=true&theme=dark -->
+    </td>
+  </tr>
+</table>
 
 ---
-### 🌱 Currently Exploring  
+# 🌱 Currently Exploring  
 
 - 🔐 **Smart Contract Security** (reentrancy, overflow, access control)  
 - ⚡ **Scaling dApps** on Layer 2 (Arbitrum, Optimism, zkSync)  
 - ☁️ DevOps pipelines (Docker + CI/CD + cloud deployment)
 
 ---
-
 ### 📊 GitHub Insights  
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuducmanh&show_icons=true&theme=react&title_color=56cfe1&icon_color=80ffdb&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vuducmanh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
-
-### 🧩 Featured Projects  
+# 🧩 Featured Projects  
 
 > 🧱 **[DeFi Dashboard](#)** — A Web3 dashboard for managing DeFi assets and tracking smart contracts.  
 > 🌐 **[Portfolio Website](#)** — Personal portfolio showcasing my works, built with Next.js & TailwindCSS.  
@@ -228,8 +240,7 @@
 
 ---
 
-### 🤝 Connect With Me  
-
+# 🤝 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -237,14 +248,12 @@
 </p>
 
 ---
-
 ### ⚡ Fun Fact  
 > “Turning complex ideas into elegant digital experiences.”  
 >  
 > Every line of code I write is a step toward bridging creativity and technology 🌍  
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vuducmanh&color=56CFE1&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/vuducmanh?style=for-the-badge&color=80ffdb&logo=github" />
