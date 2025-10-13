@@ -207,8 +207,10 @@
     <!-- RIGHT: 40% (auto-update card) -->
     <td valign="top" width="40%">
       <h3>📊 Most Used Languages</h3>
-      <td valign="top" width="30%">
-      <img src="https://raw.githubusercontent.com/VuManh-07/VuManh-07/main/metrics-languages.svg" alt="Most Used Languages">
+       <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuManh-07&layout=compact&langs_count=8&hide_border=true&hide_title=true"
+        alt="Most Used Languages"
+      />
     </td>
     </td>
   </tr>
