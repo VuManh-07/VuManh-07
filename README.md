@@ -184,9 +184,8 @@
 
 ---
 # 🧠 Tech Stack  
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- LEFT: 60% (logos) -->
     <td valign="top" width="60%">
       <!-- Frontend -->
       <h4>🎨 Frontend</h4>
@@ -204,7 +203,6 @@
       <h4>🧰 Tools</h4>
       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
     </td>
-    <!-- RIGHT: 40% (auto-update card) -->
     <td valign="top" width="40%">
       <h3>📊 Most Used Languages</h3>
        <img
