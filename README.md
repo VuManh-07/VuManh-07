@@ -207,12 +207,9 @@
     <!-- RIGHT: 40% (auto-update card) -->
     <td valign="top" width="40%">
       <h3>📊 Most Used Languages</h3>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuManh-07&layout=compact&langs_count=8&hide_border=true&hide_title=false"
-        alt="Top Languages (auto-update)"
-      />
-      <!-- Gợi ý: muốn dạng donut (tròn) thì dùng layout=donut -->
-      <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&langs_count=8&hide_border=true&theme=dark -->
+      <td valign="top" width="30%">
+      <img src="https://raw.githubusercontent.com/VuManh-07/VuManh-07/main/metrics-languages.svg" alt="Most Used Languages">
+    </td>
     </td>
   </tr>
 </table>
