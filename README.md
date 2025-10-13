@@ -184,23 +184,23 @@
 
 ---
 # 🧠 Tech Stack  
-<div style="margin-left: 25px;">
+<p style="margin-left: 25px;">
   <!-- Frontend -->
-  <h4 style="color:#56CFE1; margin: 6px 0;">🎨 Frontend</h4>
+  <h3 style="color:#56CFE1; margin: 6px 0;">🎨 Frontend</h4>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" />
   <!-- Backend -->
-  <h4 style="color:#56CFE1; margin: 10px 0 6px;">⚙️ Backend</h4>
+  <h3 style="color:#56CFE1; margin: 10px 0 6px;">⚙️ Backend</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,redis,kafka" />
   <!-- Database / SQL -->
-  <h4 style="color:#56CFE1; margin: 10px 0 6px;">🗄️ Database / SQL</h4>
+  <h3 style="color:#56CFE1; margin: 10px 0 6px;">🗄️ Database / SQL</h4>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   <!-- Blockchain -->
-  <h4 style="color:#56CFE1; margin: 10px 0 6px;">⛓️ Blockchain</h4>
+  <h3 style="color:#56CFE1; margin: 10px 0 6px;">⛓️ Blockchain</h4>
   <img src="https://skillicons.dev/icons?i=solidity,web3js,ethers,bitcoin,evm" />
   <!-- Tools -->
-  <h4 style="color:#56CFE1; margin: 10px 0 6px;">🧰 Tools</h4>
+  <h3 style="color:#56CFE1; margin: 10px 0 6px;">🧰 Tools</h4>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</div>
+</p>
 
 ---
 ### 🌱 Currently Exploring  
