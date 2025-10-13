@@ -186,8 +186,8 @@
 # 🧠 Tech Stack  
 <table>
   <tr>
-    <!-- LEFT: 70% (logos) -->
-    <td valign="top" width="70%">
+    <!-- LEFT: 60% (logos) -->
+    <td valign="top" width="60%">
       <!-- Frontend -->
       <h4>🎨 Frontend</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,typescript" /><br/>
@@ -204,11 +204,11 @@
       <h4>🧰 Tools</h4>
       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
     </td>
-    <!-- RIGHT: 30% (auto-update card) -->
-    <td valign="top" width="30%">
+    <!-- RIGHT: 40% (auto-update card) -->
+    <td valign="top" width="40%">
       <h3>📊 Most Used Languages</h3>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&hide_title=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuManh-07&layout=compact&langs_count=8&hide_border=true&hide_title=false"
         alt="Top Languages (auto-update)"
       />
       <!-- Gợi ý: muốn dạng donut (tròn) thì dùng layout=donut -->
