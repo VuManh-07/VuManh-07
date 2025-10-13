@@ -184,7 +184,7 @@
 
 ---
 # 🧠 Tech Stack
-<table width="100%">
+<table>
   <tr>
     <td valign="top" width="60%">
       <h4>🎨 Frontend</h4>
