@@ -195,7 +195,7 @@
       <h4>🗄️ Database / SQL</h4>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql"><br/>
       <h4>⛓️ Blockchain</h4>
-      <img src="https://skillicons.dev/icons?i=solidity,web3,ethers,ethereum,hardhat,metamask"><br/>
+      <img src="https://skillicons.dev/icons?i=solidity,ethereum,metamask,hardhat"><br/>
       <h4>🧰 Tools</h4>
       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode">
     </td>
