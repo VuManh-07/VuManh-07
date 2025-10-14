@@ -227,9 +227,8 @@
 ---
 # 🧩 Featured Projects  
 
-> 🧱 **[DeFi Dashboard](#)** — A Web3 dashboard for managing DeFi assets and tracking smart contracts.  
-> 🌐 **[Portfolio Website](#)** — Personal portfolio showcasing my works, built with Next.js & TailwindCSS.  
-> 🔗 **[NFT Marketplace](#)** — Solidity-based marketplace with Ethers.js integration.
+> 🪙 **[Blockchain Wallet](#https://play.google.com/store/apps/details?id=com.fidecmobile&hl=vi)** — A multi-chain crypto wallet supporting Bitcoin, Solana, and all EVM-compatible networks. Seamlessly send, receive, and manage tokens and NFTs with integrated Solidity smart contract and Ethers.js support.
+> 🎨 **[NFT Marketplace](#https://play.google.com/store/apps/details?id=com.fidecmobile&hl=vi)** — A decentralized NFT marketplace built on EVM chains with Solidity and Ethers.js. Create, trade, and manage NFTs directly from your blockchain wallet.
 
 ---
 
