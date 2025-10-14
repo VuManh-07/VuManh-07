@@ -235,7 +235,7 @@
 
 # 🤝 Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/vuducmanh-07-5343972ab"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vuducmanh-07-5343972ab/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:manhvd1507@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://fidec.io/"><img src="https://img.shields.io/badge/-Portfolio-5390d9?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
