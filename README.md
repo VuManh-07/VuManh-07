@@ -222,7 +222,6 @@
 ### 📊 GitHub Insights  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuducmanh&show_icons=true&theme=react&title_color=56cfe1&icon_color=80ffdb&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vuducmanh&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -240,12 +239,6 @@
   <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-5390d9?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
-
----
-### ⚡ Fun Fact  
-> “Turning complex ideas into elegant digital experiences.”  
->  
-> Every line of code I write is a step toward bridging creativity and technology 🌍  
 
 ---
 <p align="center">
