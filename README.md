@@ -235,13 +235,13 @@
 
 # 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/-Portfolio-5390d9?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="www.linkedin.com/in/vuducmanh-07-5343972ab"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:manhvd1507@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://fidec.io/"><img src="https://img.shields.io/badge/-Portfolio-5390d9?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vuducmanh&color=56CFE1&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/vuducmanh?style=for-the-badge&color=80ffdb&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=VuManh-07&color=56CFE1&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/VuManh-07?style=for-the-badge&color=80ffdb&logo=github" />
 </p>
