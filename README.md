@@ -221,7 +221,7 @@
 ---
 ### 📊 GitHub Insights  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vuducmanh&show_icons=true&theme=react&title_color=56cfe1&icon_color=80ffdb&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VuManh-07&show_icons=true&theme=react&title_color=56cfe1&icon_color=80ffdb&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 ---
